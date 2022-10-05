@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Utility of NoteMaker app",
+      "body": "NoteMaker app can be used to write down thoughts, reminders, tasks etc.",
+      "author": "Pundarikaksha Mohanty",
+      "id": 5
+    },
+    {
+      "title": "Remembering the Father of our nation",
+      "body": "Mahatma Gandhi, byname of Mohandas Karamchand Gandhi, (born October 2, 1869, Porbandar, India—died January 30, 1948, Delhi), Indian lawyer, politician, social activist, and writer who became the leader of the nationalist movement against the British rule of India. As such, he came to be considered the father of his country. Gandhi is internationally esteemed for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.",
+      "author": "Pundarikaksha Mohanty",
+      "id": 6
+    }
+  ]
+}

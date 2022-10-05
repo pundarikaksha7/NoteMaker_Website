@@ -11,6 +11,24 @@
       "body": "Mahatma Gandhi, byname of Mohandas Karamchand Gandhi, (born October 2, 1869, Porbandar, India—died January 30, 1948, Delhi), Indian lawyer, politician, social activist, and writer who became the leader of the nationalist movement against the British rule of India. As such, he came to be considered the father of his country. Gandhi is internationally esteemed for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.",
       "author": "Pundarikaksha Mohanty",
       "id": 6
+    },
+    {
+      "title": "Random thought",
+      "body": "Responsiveness, functionality and efficiency of frontend development can vastly be increased by integrating React,js with your web development framework.",
+      "author": "Pundarikaksha Mohanty",
+      "id": 7
+    },
+    {
+      "title": "Bubble sorting algorithm in C++",
+      "body": "\n    int i, j;\n    for (i = 0; i < n - 1; i++)\n \n        // Last i elements are already\n        // in place\n        for (j = 0; j < n - i - 1; j++)\n            if (arr[j] > arr[j + 1])\n                swap(arr[j], arr[j + 1]);",
+      "author": "GeeksForGeeks",
+      "id": 8
+    },
+    {
+      "title": "Preview of App",
+      "body": "First test preview",
+      "author": "Pundarikaksha Mohanty",
+      "id": 9
     }
   ]
 }

@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 /* base styles */
+
 * {
   margin: 0;
   font-family: "Quicksand";
@@ -43,7 +44,10 @@
   border-bottom: 1px solid #fafafa;
 }
 .blog-preview:hover {
-  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  box-shadow: 10px 20px 15px rgba(0,0,0,0.1);
+  transform: scale(1.1);
+  transition: transform .9s; 
+  
 }
 .blog-preview h2 {
   font-size: 20px;
@@ -68,6 +72,17 @@
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+.home button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.home button:hover{
+  background: #c3053e;
 }
 
 .create {

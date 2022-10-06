@@ -18,5 +18,9 @@ const BlogList = ({blogs,title}) => {
         </div>
       );
 }
+//bloglist is the parent component
+//search is the child component
+//i will search something in the  navbar, export it to blog list,
+//
  
 export default BlogList;

@@ -1,6 +1,8 @@
+import { useState } from 'react';
 import {Link} from 'react-router-dom';
 
 const Navbar = () => {
+    
     return (
         <nav className="navbar">
             <Link to="/">
@@ -8,8 +10,9 @@ const Navbar = () => {
             </Link>
             <div className="links">
                 <Link to="/">Home</Link>
-                <Link to="/create">Add Note</Link>
+                <Link to="/create">Add note</Link>
             </div>
+            
         </nav>
       );
 }

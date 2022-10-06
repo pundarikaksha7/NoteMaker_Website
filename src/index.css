@@ -27,6 +27,7 @@
   margin-left: 16px;
   text-decoration: none;
   padding: 6px;
+  font-weight: 500;
 }
 .navbar a:hover {
   color: #f1356d;
@@ -64,6 +65,14 @@
 }
 .blog-details div {
   margin: 20px 0;
+}
+.search-bar input
+{
+  width:400px;
+  height: 30px;
+  border-radius: 10px;
+  border-color: #f1356d;
+  border-top-color:solid;
 }
 .blog-details button {
   background: #f1356d;
